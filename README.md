@@ -5,12 +5,17 @@ It is a responsive Android Application because it can work on Landscape and Port
 
 ## Overview of the Music Player App
 ### Songs Fragment (Installed Songs Only)
-<img src="https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/27252f45-018c-4299-85bd-dffc92189dac" height="200" width="200" />
+<p align="center">
+  <img src="https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/27252f45-018c-4299-85bd-dffc92189dac" height="500" width="250"/>
+</p>
 
 This is the first UI that contains all the pre-Downloaded songs and we can Play the music and we can also control the music from the following navigation at the bottom side. The name and the Album photo is taken based on stored data or else it will show up the default album image set by me. There is also a feature to delete a song permanently from the mobile storage.
 
 ### Album Fragment
-
+<p align="center">
+  <img src="https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/a370dd76-4f31-4381-9dd6-e5d2e7144d23" height="500" width="250"/>
+  <img src="https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/201a0c29-e895-451f-a003-7b8b51b3dac8" height="500" width="250"/>
+</p>
 The app also has the ability to categorize the songs based on album. The albums are retrieved from the phone's storage only. Each album contains the songs stored by the user and once the song is played from the album, only the songs in the album will auto-played one-by-one. We can also add song to the Favourite when playing the songs.
 
 ### Favourite Fragment
@@ -29,3 +34,7 @@ The songs can be played after closing the app from the background and foreground
 
 ## Required permission
 ### Write_External_Storage is Required to run the application.
+
+![Screenshot_20240104-123338_Syncro](https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/27a02856-3e43-49c9-9e0d-c0ff56744d77)
+![Screenshot_20240104-123305_Syncro](https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/201a0c29-e895-451f-a003-7b8b51b3dac8)
+![Screenshot_20240104-123349_Syncro](https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/22f7fc87-949c-42fe-9f2c-f4388a91c3da)
