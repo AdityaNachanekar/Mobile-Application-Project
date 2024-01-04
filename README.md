@@ -5,6 +5,7 @@ It is a responsive Android Application because it can work on Landscape and Port
 
 ## Overview of the Music Player App
 ### Songs Fragment (Installed Songs Only)
+<img src="https://github.com/AdityaNachanekar/Mobile-Application-Project/assets/144520894/27252f45-018c-4299-85bd-dffc92189dac" height="200" width="200" />
 
 This is the first UI that contains all the pre-Downloaded songs and we can Play the music and we can also control the music from the following navigation at the bottom side. The name and the Album photo is taken based on stored data or else it will show up the default album image set by me. There is also a feature to delete a song permanently from the mobile storage.
 
@@ -26,5 +27,5 @@ User can Search a Music From Songs and Adify by clicking on the Search icon. Whe
 ### Background Songs Playing
 The songs can be played after closing the app from the background and foreground. Where I have used the Foreground Service to display a notification of the playing song in the Background, and we can also play, pause, move to next or move to previous song through the notification only.
 
-## Requried permission
+## Required permission
 ### Write_External_Storage is Required to run the application.
